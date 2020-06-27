@@ -3,3 +3,5 @@ site_name: Kubernetes Eco System
 site_url: https://dineshpatilcloud.github.io/test/
 site_author: Dinesh Patil
 site_description: KES Labs
+pages:
+  - Home: "index.md"
